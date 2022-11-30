@@ -5,7 +5,6 @@
 - 📫 How to reach me: devstabile@gmail.com
 - 📫 How to reach me: +55 11 95444-5333
 ##
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Spring" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
@@ -20,8 +19,7 @@
 </div>
 
 ##
-
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/gabrielcorreiastabile">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcstabile&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcstabile&layout=compact&langs_count=7&theme=dark"/>
