@@ -27,7 +27,7 @@ Atualmente estou aprofundando meus conhecimentos em **Python, SQL, AWS** para me
 ---
 
 ## 🚀 Projetos em Destaque
-- 📂 [ETL de 1 Milhão de Linhas](https://github.com/gabrielcstabile/Projetos/tree/main/etl-1-milhao-linhas) – Pipeline de dados em Python, Pandas e DuckDB  
+
 
 ---
 
