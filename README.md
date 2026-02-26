@@ -23,7 +23,7 @@ Venho desenvolvendo projetos práticos que integram **dados, SQL, automação e 
 - **Automação:** n8n, scripts Python  
 - **Versionamento:** Git, GitHub  
 - **Ambiente:** Linux / WSL  
-- **Outros:** Docker (em aprendizado), APIs, Web Scraping  
+- **Outros:** Docker, APIs, Web Scraping  
 
 ---
 
